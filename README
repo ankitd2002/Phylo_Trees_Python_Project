@@ -1,0 +1,5 @@
+DEPENDENCIES
+
+- pydot
+- graphviz
+- pillow
