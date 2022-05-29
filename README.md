@@ -5,6 +5,7 @@
 - 📫 How to reach me ankitd@uvic.ca
 - ⚡ Fun fact: I love to design,dance and create videos
 - 😄 Pronouns: He/Him
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 <!---
 ankitd0608/ankitd0608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
