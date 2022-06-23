@@ -1,4 +1,4 @@
-## Hi there 👋, I [design code && code design](https://ankitdahiya.com/#projects)
+## Hi there 👋, I [design code && code design](https://github.com/ankitd2002)
 
 <!--[![HitCount](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23.svg)](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23)--->
 <!--![ViewCount](https://views.whatilearened.today/views/github/iamutkarsh23/iamutkarsh23.svg)--->
@@ -11,8 +11,8 @@ You're about to enter the collection of my code.
 
 ### About Me 💬
 
-- 🖥️ Software Engineer @ Amazon
-- :mortar_board: Computer Science Grad from University of Victoria
+- 🖥️ Software Engineer Computer Scientist Psychology Minor
+- :mortar_board: Final Year Student from University of Victoria
 
 ### Development Tools 
  
@@ -29,6 +29,6 @@ You're about to enter the collection of my code.
 
 ### Reach Me 
 
-- :earth_americas: [utkarshpatadia.com](https://utkarshpatadia.com) <br>
-- :inbox_tray: mindutkarsh@gmail.com <br>
-- :necktie: [LinkedIn](https://www.linkedin.com/in/utkarshpatadia/)
+- :earth_americas: [utkarshpatadia.com](https://github.com/ankitd2002) <br>
+- :inbox_tray: ankitd@uvic.ca   ankitdahiya2002@gmail.com <br>
+- :necktie: [LinkedIn](https://www.linkedin.com/in/ankit-dahiya12/)
