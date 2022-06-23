@@ -29,6 +29,6 @@ You're about to enter the collection of my code.
 
 ### Reach Me 
 
-- :earth_americas: [utkarshpatadia.com](https://github.com/ankitd2002) <br>
+- :earth_americas: [ankitportfolio](https://github.com/ankitd2002) <br>
 - :inbox_tray: ankitd@uvic.ca   ankitdahiya2002@gmail.com <br>
 - :necktie: [LinkedIn](https://www.linkedin.com/in/ankit-dahiya12/)
