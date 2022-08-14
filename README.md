@@ -1,7 +1,7 @@
 ## Hi there 👋, I [design code && code design](https://github.com/ankitd2002)
 
-<!--[![HitCount](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23.svg)](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23)--->
-<!--![ViewCount](https://views.whatilearened.today/views/github/iamutkarsh23/iamutkarsh23.svg)--->
+<!--[![HitCount](http://hits.dwyl.com/ankitd2002/ankitd2002.svg)](http://hits.dwyl.com/ankitd2002/ankitd2002)--->
+<!--![ViewCount](https://views.whatilearened.today/views/github/ankitd2002/ankitd2002.svg)--->
 <!--<br>--->
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)]()
@@ -29,6 +29,6 @@ You're about to enter the collection of my code.
 
 ### Reach Me 
 
-- :earth_americas: [ankitportfolio](https://ankitd2002.github.io/ankitportfolio/) <br>
+- :earth_americas: [ankitportfolio](https://ankitd2002.github.io/Css-portfolio/) <br>
 - :inbox_tray: ankitd@uvic.ca   ankitdahiya2002@gmail.com <br>
 - :necktie: [LinkedIn](https://www.linkedin.com/in/ankit-dahiya12/)
