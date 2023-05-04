@@ -12,7 +12,7 @@ You're about to enter the collection of my code.
 ### About Me 💬
 
 - 🖥️ Software Engineer Computer Scientist Psychology Minor
-- :mortar_board: Final Year Student from University of Victoria
+- :mortar_board: Graduate Student from University of Victoria
 
 ### Development Tools 
  
